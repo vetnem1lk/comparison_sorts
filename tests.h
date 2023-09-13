@@ -1,6 +1,6 @@
 #ifndef COMPARISON_SORTS_TESTS_H
 #define COMPARISON_SORTS_TESTS_H
-
+#include <stdbool.h>
 /**
  * @brief Unit-test сортировки Шелла.
  *
